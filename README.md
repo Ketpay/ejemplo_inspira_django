@@ -1,2 +1,3 @@
-# ejemplo_inspira_django
-prueba
+# Ejemplo de Django para el proyecto Inspira
+
+prueba 1
